@@ -1,6 +1,6 @@
 # temperature-convertor-01
 
-# Python Mini Projects
+# Python Mini Project
 
 This repository contains four Python scripts for common programming tasks:
 
